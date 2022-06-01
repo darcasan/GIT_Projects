@@ -1,0 +1,10 @@
+{'id': 'cf_1', 'title': 'El hombre bicentenario', 'author': 'Isaac Asimov', 'genre': 'Ciencia ficci�n'}
+{'id': 'ne_1', 'title': 'Lobo de mar', 'author': 'Jack London', 'genre': 'Narrativa extranjera'}
+{'id': 'np_1', 'title': 'El legado de los huesos', 'author': 'Dolores Redondo', 'genre': 'Narrativa polic�aca'}
+{'id': 'dc_1', 'title': 'El error de Descartes', 'genre': 'Divulgaci�n cient�fica', 'author': 'Antonio Damasio'}
+{'id': 'dc_2', 'title': 'El ingenio de los p�jaros', 'author': 'Jennifer Ackerman', 'genre': 'Divulgaci�n cient�fica'}
+{'id': 'ne_2', 'title': 'El coraz�n de las tinieblas', 'author': 'Jack London', 'genre': 'Narrativa extranjera'}
+{'id': 'dc_5', 'title': 'Metro 2033', 'author': 'Dmitri Glujovski', 'genre': 'Divulgaci�n cient�fica'}
+{'id': 'dc_4', 'title': 'Sidharta', 'author': 'Hermann Hesse', 'genre': 'Narrativa extranjera'}
+{'id': 'el_1', 'title': 'Las armas y las letras', 'author': 'Andres Trapiello', 'genre': 'Narrativa extranjera'}
+{'id': 'aa_1', 'title': 'El poder del ahora', 'author': 'Ekhart Tolle', 'genre': 'Narrativa extranjera'}
